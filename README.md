@@ -4,6 +4,8 @@ A structured walk-through of my path from Python fundamentals to building with G
 
 This isn't a course dump. Each folder reflects a stage I actually went through, in order, while building toward [Multi-Agent AI Research System](https://github.com/Himanshu25589/Multi-Agent-Research-System) and [AI Video & Meeting Assistant](https://github.com/Himanshu25589/AI-Video-Assistant).
 
+**This repo is open-source — not because I think it's groundbreaking, but because every "Hello World" deserves company along the way. Fork it, learn from it, or just see how messy the beginning of a real journey actually looks.**
+
 ---
 
 ## Why This Exists
