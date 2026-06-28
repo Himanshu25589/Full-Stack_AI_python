@@ -1,1 +1,271 @@
 
+# Introduction to Generative AI
+
+## What is Artificial Intelligence (AI)?
+
+Artificial Intelligence (AI) is a branch of computer science that focuses on creating systems capable of performing tasks that normally require human intelligence.
+
+These tasks include:
+
+* Understanding language
+* Recognizing images
+* Solving problems
+* Learning from data
+* Making decisions
+
+### Examples
+
+* ChatGPT
+* Google Assistant
+* Self-driving cars
+* Face recognition
+* Recommendation systems (Netflix, YouTube)
+
+---
+
+# What is Machine Learning (ML)?
+
+Machine Learning is a subset of Artificial Intelligence.
+
+Instead of programming every rule manually, a machine learns patterns from data and makes predictions or decisions.
+
+### Simple Definition
+
+> Machine Learning is the process of teaching computers to learn from data without being explicitly programmed.
+
+### Example
+
+A spam detection model learns from thousands of emails and predicts whether a new email is spam or not.
+
+---
+
+# What is Deep Learning (DL)?
+
+Deep Learning is a subset of Machine Learning.
+
+It uses artificial neural networks with multiple layers to learn complex patterns from large amounts of data.
+
+Deep Learning is responsible for many recent AI breakthroughs.
+
+### Applications
+
+* Image Recognition
+* Speech Recognition
+* Language Translation
+* Medical Diagnosis
+* Self-driving Cars
+
+---
+
+# Relationship Between AI, ML, DL, and GenAI
+
+```
+Artificial Intelligence (AI)
+│
+├── Machine Learning (ML)
+│      │
+│      ├── Deep Learning (DL)
+│             │
+│             └── Generative AI (GenAI)
+```
+
+---
+
+# What is Generative AI?
+
+Generative AI is a type of Artificial Intelligence that creates new content instead of only analyzing existing data.
+
+It learns patterns from a large dataset and generates content that looks similar to the data it learned from.
+
+### It can generate:
+
+* Text
+* Images
+* Videos
+* Audio
+* Music
+* Source Code
+* 3D Models
+
+### Example
+
+Prompt:
+
+```
+Write a Python program to check whether a number is prime.
+```
+
+Output:
+
+```python
+num = int(input("Enter a number: "))
+
+if num > 1:
+    for i in range(2, num):
+        if num % i == 0:
+            print("Not Prime")
+            break
+    else:
+        print("Prime")
+else:
+    print("Not Prime")
+```
+
+---
+
+# Traditional AI vs Generative AI
+
+| Traditional AI           | Generative AI               |
+| ------------------------ | --------------------------- |
+| Predicts                 | Creates                     |
+| Classifies data          | Generates new content       |
+| Detects spam             | Writes emails               |
+| Recognizes images        | Creates images              |
+| Answers predefined tasks | Produces creative responses |
+
+---
+
+# Why is Generative AI Important?
+
+Generative AI helps people:
+
+* Save time
+* Improve productivity
+* Generate ideas
+* Automate repetitive work
+* Write code faster
+* Create digital content
+* Build intelligent assistants
+
+---
+
+# Applications of Generative AI
+
+### Content Writing
+
+* Blogs
+* Articles
+* Emails
+* Reports
+
+### Programming
+
+* Code Generation
+* Debugging
+* Documentation
+
+### Education
+
+* Notes
+* Quiz Generation
+* Explanations
+* Homework Assistance
+
+### Image Generation
+
+* Posters
+* Logos
+* Digital Art
+
+### Business
+
+* Customer Support
+* Marketing Content
+* Chatbots
+
+### Healthcare
+
+* Medical Reports
+* Drug Research
+* Patient Assistance
+
+---
+
+# Popular Generative AI Tools
+
+| Tool             | Purpose             |
+| ---------------- | ------------------- |
+| ChatGPT          | Text Generation     |
+| Gemini           | AI Assistant        |
+| Claude           | Writing & Reasoning |
+| GitHub Copilot   | Code Generation     |
+| Midjourney       | AI Images           |
+| Stable Diffusion | Image Generation    |
+
+---
+
+# Benefits of Generative AI
+
+* Faster content creation
+* Increased productivity
+* Better creativity
+* Reduces repetitive work
+* Assists developers
+* Supports businesses
+* Easy automation
+
+---
+
+# Limitations of Generative AI
+
+* Can generate incorrect information
+* May produce biased results
+* Requires quality prompts
+* Depends on training data
+* Cannot think like humans
+* May hallucinate facts
+
+---
+
+# Real-Life Examples
+
+### Student
+
+* Summarizes notes
+* Solves coding problems
+* Explains difficult concepts
+
+### Software Engineer
+
+* Generates code
+* Finds bugs
+* Writes documentation
+
+### Teacher
+
+* Creates quizzes
+* Generates assignments
+* Prepares presentations
+
+### Business Owner
+
+* Creates advertisements
+* Writes product descriptions
+* Replies to customer queries
+
+---
+
+# Future of Generative AI
+
+Generative AI is expected to become an essential part of:
+
+* Software Development
+* Education
+* Healthcare
+* Finance
+* Entertainment
+* Robotics
+* Scientific Research
+
+It will continue improving with larger models, better reasoning abilities, and multimodal capabilities.
+
+---
+
+# Key Takeaways
+
+* AI enables machines to perform intelligent tasks.
+* Machine Learning allows systems to learn from data.
+* Deep Learning uses neural networks for complex learning.
+* Generative AI creates new content such as text, images, audio, videos, and code.
+* Generative AI is transforming industries by improving productivity and creativity.
+* Understanding these basics is the first step toward learning Large Language Models (LLMs), Prompt Engineering, RAG, AI Agents, and other advanced GenAI concepts.
